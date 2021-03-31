@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/NguyenVuNhan/walleto-be
+[submodule "client"]
+	path = client
+	url = https://github.com/NguyenVuNhan/walleto-fe
